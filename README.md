@@ -1,8 +1,8 @@
 # iPhone widget for World Chess Championship 2026
 
-The tracker also comes as an iPhone home screen widget. It shows the same match as the extension: the board, both clocks, the last move, the score and Sesse's evaluation. 
+The tracker also comes as an iPhone home screen widget. It shows the same match as the extension: the board, both clocks, the last move, the score and Sesse's evaluation. It runs in [Scriptable](https://apps.apple.com/app/scriptable/id1405459188), a free app that runs small JavaScript widgets.
 
-It runs in [Scriptable](https://apps.apple.com/app/scriptable/id1405459188), a free app that runs small JavaScript widgets.
+![The widget in small, medium and large sizes, in light and dark mode](/widget-collage.png)
 
 ## Sizes
 
@@ -21,14 +21,6 @@ It runs in [Scriptable](https://apps.apple.com/app/scriptable/id1405459188), a f
 3. Open Scriptable and tap the script once. A preview of the medium widget should appear.
 4. Go to your home screen and long-press an empty area. Tap **Edit → Add Widget**, find **Scriptable**, choose a size and tap **Add Widget**.
 5. Long-press the new widget, tap **Edit Widget**, and set **Script** to `WCC 2026`.
-
-**Lock screen:** long-press the lock screen and tap **Customize → Lock Screen**. Tap the widget area, add Scriptable's rectangular or inline widget, and pick `WCC 2026`.
-
-**If tapping opens Scriptable instead of Lichess:** go to **Edit Widget**, set **When Interacting** to **Open URL**, and paste this link:
-
-```
-https://lichess.org/broadcast/fide-world-chess-championship-2026/qfkdt8mn
-```
 
 ## What to expect
 
